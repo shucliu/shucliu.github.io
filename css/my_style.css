@@ -1,0 +1,44 @@
+
+p {
+    margin-bottom: 0.2rem;
+}
+
+.small-margin {
+    margin: 1px; /* or any small value you prefer */
+    padding: 4px;
+}
+
+.my-rounded {
+    border-radius: 15px;
+}
+
+.small-pad {
+    padding: 5px; /* Smaller padding */
+}
+
+.author {
+    font-size: 0.9rem;
+}
+
+.comment{
+    font-size: 0.9rem;
+}
+
+.title {
+    font-size: 1rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    font-weight: 500;
+    line-height: 1.2;
+
+    font-weight: bold;
+}
+
+.no-text-decoration{
+    text-decoration: none
+}
+
+.pub-section{
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
