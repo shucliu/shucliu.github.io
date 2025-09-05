@@ -1,5 +1,6 @@
 const buttonData = [
     // { href: 'mailto:shucliu “at symbol” mit.edu', imgSrc: 'assets/icon/envelope-fill.svg', buttonText: 'Email' },
+    { href: '/assets/projects/CV_202509.pdf', imgSrc: 'assets/icon/file-earmark-pdf.svg', buttonText: 'Curriculum Vitae'},
     { href: 'https://github.com/shucliu', imgSrc: 'assets/icon/github.svg', buttonText: 'GitHub' },
     { href: 'https://scholar.google.com/citations?user=sR5joKcAAAAJ&hl=en', imgSrc: 'assets/icon/google-scholar_color.svg', buttonText: 'Scholar' },
     // { href: 'https://www.linkedin.com/in/bingxinke', imgSrc: 'assets/icon/LinkedIn_icon.svg', buttonText: 'LinkedIn' },
